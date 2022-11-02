@@ -1,1 +1,50 @@
+.produit {
+    color: coral;
+    font-style: italic;
+}
 
+.reference {
+    color: black;
+    font-style: italic;
+    background-color: #b6b2b2;
+}
+
+.general {
+    color: blue;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#div3 {
+    color: blue;
+    font-size: small;
+    background-color: #C0C0C0;
+}
+
+#div1 h3 {
+    color: red;
+    text-transform: uppercase;
+}
+
+#div1 blockquote p::first-letter {
+    color: green;
+    text-transform: uppercase;
+    font-family: fantasy;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+th {
+    text-transform: uppercase;
+}
+
+#div1 blockquote p {
+    margin: 20px;
+}
+
+h2 {
+    text-decoration: underline;
+    text-transform: uppercase;
+}
